@@ -73,7 +73,7 @@
 ### Class Diagram
   ![ClassDiagram](https://user-images.githubusercontent.com/88027485/180932887-59d58ce0-9850-401d-80de-4e96bd39dec5.jpg)
     
-### 메인 페이지
+### 구현 페이지
   ![메인](https://user-images.githubusercontent.com/88027485/180933107-dcc82b2e-05dc-494f-abec-7f4eea15f713.jpg)
     
 ### 프로젝트 링크
