@@ -63,7 +63,7 @@
   ![예약확인 모달](https://user-images.githubusercontent.com/88027485/180931999-90da3a9d-a8bd-4936-a499-6644464693c8.png)
   
 ### 프로젝트 네이밍룰
-  [네이밍룰.pdf](https://github.com/usehun/houspace/files/9186761/default.pdf
+  [네이밍룰.pdf](https://github.com/usehun/houspace/files/9186761/default.pdf)
   <br/>
   ![네이밍룰](https://user-images.githubusercontent.com/88027485/180927493-afad6dc4-0ccb-4a5d-aac9-a0c10dfb0529.jpg)
   
