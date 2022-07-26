@@ -30,6 +30,7 @@
 
 ### 프로젝트 일정계획서
   [일정계획서.pdf](https://github.com/usehun/houspace/files/9187038/default.pdf)
+  <br/>
   ![일정계획서](https://user-images.githubusercontent.com/88027485/180936625-64f86eef-01ff-4185-b017-f5781315e439.jpg)
     
 ### UI 설계서
@@ -63,6 +64,7 @@
   
 ### 프로젝트 네이밍룰
   [네이밍룰.pdf](https://github.com/usehun/houspace/files/9186761/default.pdf
+  <br/>
   ![네이밍룰](https://user-images.githubusercontent.com/88027485/180927493-afad6dc4-0ccb-4a5d-aac9-a0c10dfb0529.jpg)
   
 ### ERD
